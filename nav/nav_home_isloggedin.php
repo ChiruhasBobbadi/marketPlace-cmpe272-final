@@ -1,27 +1,21 @@
 <nav class="navbar navbar-expand-lg navbar-dark shadow-5-strong">
-    <a class="navbar-brand" href="marketPlace/index.php" style="margin-left: 3%">Online Market Place</a>
+    <a class="navbar-brand" href="/marketPlace/index.php" style="margin-left: 3%">Online Market Place</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarText">
         <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-                <a class="nav-link" href="#home">Home</a>
+            <li class="nav-item">
+                <a class="nav-link" href="/marketPlace/topProducts.php">Top Products</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Websites</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Top Products</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="reviews.php">Reviews</a>
+                <a class="nav-link" href="/marketPlace/reviews.php">Reviews</a>
             </li>
         </ul>
 
 
         <span class="navbar-text " style="margin-left: 50%">
-     <a href="/logout.php" class="link">Logout</a>
+     <a href="/marketPlace/logout.php" class="link">Logout</a>
     </span>
 
 

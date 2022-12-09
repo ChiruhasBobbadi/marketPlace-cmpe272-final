@@ -26,7 +26,7 @@
 <div class="dropup position-absolute bottom-0 end-0 rounded-circle m-5">
 
 
-    <button onclick="window.location.href='addReview.php'" type="button" class="btn btn-success btn-lg hide-toggle">
+    <button onclick="window.location.href='/marketPlace/addReview.php'" type="button" class="btn btn-success btn-lg hide-toggle">
         <i class="fa-solid fa-plus"></i>
     </button>
 

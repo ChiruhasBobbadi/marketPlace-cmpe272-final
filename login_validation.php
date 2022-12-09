@@ -21,7 +21,7 @@ if (mysqli_num_rows($result) === 0) {
         setcookie("user",$users,time()+60*60*24,'/');
     }
 
-    header("location: index.php");
+    header("location: /marketPlace/index.php");
 }
 
 

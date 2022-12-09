@@ -40,8 +40,8 @@
                     <img class="card-img-top center" src="./static/images/logo1.png" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Burger Shack</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <p class="card-text">BurgerShack is a one stop shop for all things related to food, visit us to see the exclusive menu</p>
+                        <a href="http://chiruhas.com/BurgerShack-CMPE-272/" class="btn btn-primary"> Visit </a>
                     </div>
                 </div>
             </div>
@@ -51,9 +51,9 @@
                 <div class="card" style="width: 18rem;">
                     <img class="card-img-top center" src="./static/images/logo2.png" alt="Card image cap" >
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
+                        <h5 class="card-title">Watches</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a href="https://chpsai.me/" class="btn btn-primary">Visit</a>
                     </div>
                 </div>
             </div>
@@ -63,9 +63,9 @@
                 <div class="card" style="width: 18rem;">
                     <img class="card-img-top center" src="./static/images/logo3.png" alt="Card image cap" >
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <h5 class="card-title">IphoneStore</h5>
+                        <p class="card-text">Shop the latest Apple iPhones for sale today. Explore pricing and features for all models, including the latest iPhone 14 series</p>
+                        <a href="http://myhvdomain.ninja/iphonestore/" class="btn btn-primary">Visit</a>
                     </div>
                 </div>
             </div>
@@ -74,11 +74,11 @@
         <div class="col-3">
             <div id="animate1" data-aos="fade-up" data-aos-once="true" data-aos-delay="2000" data-aos-easing="ease-in">
                 <div class="card" style="width: 18rem;">
-                    <img class="card-img-top" src="..." alt="Card image cap">
+                    <img class="card-img-top center" src="./static/images/logo4.png" alt="Card image cap" >
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
+                        <h5 class="card-title">GreenLeaf Elektronics</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a href="https://adeshlandge.com/" class="btn btn-primary">Visit</a>
                     </div>
                 </div>
             </div>
