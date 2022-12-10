@@ -22,7 +22,7 @@
         <div class="col-3"></div>
         <div class="col-6">
             <div class="container">
-                <form method="post" action="/signup_validation.php" style="margin-top: 10%">
+                <form method="post" action="signup_validation.php" style="margin-top: 10%">
                     <div class="form-row" style="margin-top: 5%">
                         <div class="row">
                             <div class="col-6">
