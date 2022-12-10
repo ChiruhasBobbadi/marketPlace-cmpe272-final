@@ -1,5 +1,5 @@
 <nav class="navbar-expand-lg navbar navbar-dark bg-dark">
-    <a class="navbar-brand" href="/marketPlace/index.php" style="margin-left: 3%">Online Market Place</a>
+    <a class="navbar-brand" href="index.php" style="margin-left: 3%">Online Market Place</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -7,16 +7,16 @@
         <ul class="navbar-nav mr-auto">
 
             <li class="nav-item">
-                <a class="nav-link" href="/marketPlace/topProducts.php">Top Products</a>
+                <a class="nav-link" href="topProducts.php">Top Products</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/marketPlace/reviews.php">Reviews</a>
+                <a class="nav-link" href="reviews.php">Reviews</a>
             </li>
         </ul>
 
 
         <span class="navbar-text " style="margin-left: 50%">
-     <a href="/marketPlace/logout.php" class="link">Logout</a>
+     <a href="logout.php" class="link">Logout</a>
     </span>
 
 

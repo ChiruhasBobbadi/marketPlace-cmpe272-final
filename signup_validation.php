@@ -15,11 +15,11 @@ if($password===$repass){
     $conn->close();
     setcookie("isAuth",true,time()+60*60*24,'/');
     setcookie("user",$fn." ".$ln,time()+60*60*24,'/');
-    header("location: /marketPlace/index.php");
+    header("location: index.php");
 
 }
 else{
-    header("location: /marketPlace/signup.php?err=Password");
+    header("location: signup.php?err=Password");
 }
 
 
