@@ -14,7 +14,7 @@ if (mysqli_num_rows($result) === 0) {
 
 }else{
 // set a cookie that user is authenticated
-    echo "authenticated";
+
     setcookie("isAuth",true,time()+60*60*24,'/');
     while($row = $result->fetch_assoc()){
         $users = $row["firstname"]." ".$row["lastname"];

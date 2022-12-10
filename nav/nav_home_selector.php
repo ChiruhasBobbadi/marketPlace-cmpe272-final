@@ -1,11 +1,12 @@
 <?php
 
-if(isset($_COOKIE['isAuth']) && $_COOKIE['isAuth']){
+if(!isset($_COOKIE['isAuth'])){
 
-    require "nav_home_isloggedin.php";
+    require "nav_home.php";
+
 
 }else{
-    require "nav_home.php";
+    require "nav_home_isloggedin.php";
 }
 
 ?>
