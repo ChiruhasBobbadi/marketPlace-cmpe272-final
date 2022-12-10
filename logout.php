@@ -6,7 +6,7 @@ session_start();
 setcookie("isAuth","",time() - 3600);
 session_destroy();
 setcookie("user","", time() - 3600);
-    header("location: marketPlace/index.php");
+    header("location: index.php");
 
 
 
